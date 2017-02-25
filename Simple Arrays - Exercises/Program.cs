@@ -10,6 +10,28 @@ namespace Simple_Arrays___Exercises
     {
         static void Main(string[] args)
         {
+            var input = int.Parse(Console.ReadLine());
+            int[] myArray = new int[input];
+
+            for (int i = 0; i < input; i++)
+            {
+                myArray[i] = int.Parse(Console.ReadLine());
+            }
+
+            Console.WriteLine(getMaxNumFromarray(myArray));
+        }
+
+        static int getMaxNumFromarray(int[] array)
+        {
+            int max = int.MinValue;
+            for (int i = 0; i < array.Length; i++)
+            {
+                if (array[i] > max)
+                {
+                    max = array[i];
+                }
+            }
+            return max;
         }
     }
 }
