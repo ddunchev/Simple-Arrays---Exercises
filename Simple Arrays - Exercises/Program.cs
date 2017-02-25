@@ -10,6 +10,8 @@ namespace Simple_Arrays___Exercises
     {
         static void Main(string[] args)
         {
+            //Get the max length of an array
+
             var input = int.Parse(Console.ReadLine());
             int[] myArray = new int[input];
 
