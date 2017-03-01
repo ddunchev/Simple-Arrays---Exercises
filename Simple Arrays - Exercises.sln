@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IncreasingSequenceOfElement
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EqualSequenceOfElementsInArray", "EqualSequenceOfElementsInArray\EqualSequenceOfElementsInArray.csproj", "{1AC4FFE7-E34B-49AE-800A-1FF8E91714D8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadCapitalLetters", "ReadCapitalLetters\ReadCapitalLetters.csproj", "{08A8C8A0-EA07-4E9F-B373-324936A57BFB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{1AC4FFE7-E34B-49AE-800A-1FF8E91714D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1AC4FFE7-E34B-49AE-800A-1FF8E91714D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1AC4FFE7-E34B-49AE-800A-1FF8E91714D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08A8C8A0-EA07-4E9F-B373-324936A57BFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08A8C8A0-EA07-4E9F-B373-324936A57BFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08A8C8A0-EA07-4E9F-B373-324936A57BFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08A8C8A0-EA07-4E9F-B373-324936A57BFB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
