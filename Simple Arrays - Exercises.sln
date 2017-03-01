@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EqualSequenceOfElementsInAr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadCapitalLetters", "ReadCapitalLetters\ReadCapitalLetters.csproj", "{08A8C8A0-EA07-4E9F-B373-324936A57BFB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraySymmetry", "ArraySymmetry\ArraySymmetry.csproj", "{A472A883-6A50-4B01-B26C-59E9485C7BAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Altitude", "Altitude\Altitude.csproj", "{05AFC66F-7281-499E-8BFE-ED350D93EB2E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{08A8C8A0-EA07-4E9F-B373-324936A57BFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08A8C8A0-EA07-4E9F-B373-324936A57BFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08A8C8A0-EA07-4E9F-B373-324936A57BFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A472A883-6A50-4B01-B26C-59E9485C7BAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A472A883-6A50-4B01-B26C-59E9485C7BAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A472A883-6A50-4B01-B26C-59E9485C7BAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A472A883-6A50-4B01-B26C-59E9485C7BAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05AFC66F-7281-499E-8BFE-ED350D93EB2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05AFC66F-7281-499E-8BFE-ED350D93EB2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05AFC66F-7281-499E-8BFE-ED350D93EB2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05AFC66F-7281-499E-8BFE-ED350D93EB2E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
